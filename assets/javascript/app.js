@@ -109,55 +109,55 @@ $(document).ready(function(){
   let questionBank =
   [
     {
-      question: "Who is the mayor of Springfield?",
-      answers: ["Montgomery Burns", "Joe Quimby", "Clancy Wiggum"],
-      correct: "Joe Quimby"
+      question: "What kind of farm does Dwight own?",
+      answers: ["Bear Farm", "Beet Farm", "Carrot Farm"],
+      correct: "Beet Farm"
     },
   
     {
-      question: "What did Lyle Lanley sell to Brockway, Ogdenville, and North Haverbrook?",
-      answers: ["a monorail", "a nuclear power plant", "a mule with a spinning wheel"],
-      correct: "a monorail"
+      question: "How long were Pam and Roy engaged?",
+      answers: ["3-4 years", "6 years", "3 months"],
+      correct: "3-4 years"
     },
     {
-      question: "What what the name of Bart's elephant?",
-      answers: ["Snowball", "Stampy", "Laddie"],
-      correct: "Stampy"
+      question: "What name did Pam and Angela fight over for their babies?",
+      answers: ["Andrew", "James", "Philip"],
+      correct: "Philip"
     },
     {
-      question: "When Bart rents a car with a fake license, where does he drive with his friends on spring break?",
-      answers: ["Shelbyville", "Itchy and Scratchy Land", "Knoxville"],
-      correct: "Knoxville"
+      question: "Where did Jim tell Pam about his feelings?",
+      answers: ["The office parking lot", "The office", "The warehouse"],
+      correct: "The office parking lot"
     },
     {
-      question: "When the Simpsons move to a farm, what plant do they grow and sell at a roadside stand?",
-      answers: ["carrots and peas", "a cross of tomatoes and tobacco", "gummy bears"],
-      correct: "a cross of tomatoes and tobacco"
+      question: "Where do Jim and Pam share their first real kiss?",
+      answers: ["The roof", "The warehouse", "Jim's desk"],
+      correct: "Jim's desk"
     },
     {
-      question: "Which character that Homer voiced was added to, and promptly killed off, on the Itchy and Scratchy Show?",
-      answers: ["Poochie", "Max Power", "Kang"],
-      correct: "Poochie"
+      question: "Which of Angela's cats does Dwight freeze",
+      answers: ["Bandit", "Sprinkles", "Sparkles"],
+      correct: "Sprinkles"
     },
     {
-      question: "When child protective services removes the Simpson kids, which family fosters them?",
-      answers: ["Flanders", "Van Houten", "Smithers"],
-      correct: "Flanders"
+      question: "Who won the bronze metal during the office Olympics?",
+      answers: ["Michael", "Toby", "Jim" ],
+      correct: "Jim"
     },
     {
-      question: "When Marge starts a business after attending a franchise fair, what is her company?",
-      answers: ["Fleet-a-Pita", "Flancrest Enterprises", "Pretzel Wagon"],
-      correct: "Pretzel Wagon"
+      question: "Which office employee did Michael hit with his car?",
+      answers: ["Angela", "Meredith", "Kelly"],
+      correct: "Meredith"
     },
     {
-      question: "What dish does Lisa make for Homer's BBBQ backyard barbecue?",
-      answers: ["salad", "gazpacho", "lamb chops"],
-      correct: "gazpacho"
+      question: "Who started the fire?",
+      answers: ["Ryan", "Toby", "Andy"],
+      correct: "Ryan"
     },
     {
-      question: "What is Principal Seymour Skinner's real name?",
-      answers: ["Troy McClure", "Gary Chalmers","Armin Tamzarian"],
-      correct: "Armin Tamzarian"
+      question: "What vegetable does Michael force feed Kevin?",
+      answers: ["Baby carrots", "Corn on the cob", "Broccoli"],
+      correct: "Broccoli"
     }
   ]
   
