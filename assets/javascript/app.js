@@ -1,11 +1,11 @@
 $(document).ready(function(){
 
-    // start the game when user clicks on Start button
+    //start game when user clicks start button
     $("#startButton").on("click", gameState.startTimer);
   
   });
   
-  // information about the state of game play
+  
   let gameState = {
   
     // set the time at 60 seconds, and count down by 1 second
